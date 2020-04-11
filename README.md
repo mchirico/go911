@@ -2,7 +2,7 @@
 
 ## go911
 
-This puts data into BigQuery
+This puts data into BigQuery.  See [activeIncident](https://github.com/mchirico/activeIncident) if you want scape that can be shared, since no json service account are needed in that version.
 
 ```
 docker run --rm -it aipiggybot/activeinc
